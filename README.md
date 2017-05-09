@@ -13,3 +13,5 @@ Parece que la plataforma ideal sería el ESP 8266, por su bajo coste y sencillez
 ## Referencias
 
 [Punto de partida](https://www.instructables.com/id/Solar-Powered-WiFi-Weather-Station/)
+
+![Electrónica](https://cdn.instructables.com/ORIG/F7L/CJXJ/J20PCE1T/F7LCJXJJ20PCE1T.jpg)
